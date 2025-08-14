@@ -62,7 +62,7 @@ Overview YTD:
 
 ## 💡 Recommendations
 
-Targeted promotions for Blue card holders and high spenders
-Special offers for low-performing card types
-Reward programs to encourage online transactions
-Marketing campaigns focused on graduates & business professionals
+- Targeted promotions for Blue card holders and high spenders
+- Special offers for low-performing card types
+- Reward programs to encourage online transactions
+- Marketing campaigns focused on graduates & business professionals
