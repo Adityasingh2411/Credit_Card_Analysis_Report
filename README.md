@@ -1,4 +1,4 @@
-📊 #Credit Card Weekly Sales Analysis
+# 📊 Credit Card Weekly Sales Analysis
 
 An Interactive Data Analysis Project using SQL Server, Power BI & DAX
 
