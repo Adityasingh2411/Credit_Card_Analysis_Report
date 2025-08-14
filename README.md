@@ -26,27 +26,39 @@ Rows: 10,000+ customers
 
 ## 🛠 Tools & Technologies
 
-SQL Server – Data storage, cleaning & transformation
-Power BI – Data modeling, visualization & dashboard creation
-DAX – Calculated columns & measures for KPIs
-CSV – Raw data source format
+- SQL Server – Data storage, cleaning & transformation
+- Power BI – Data modeling, visualization & dashboard creation
+- DAX – Calculated columns & measures for KPIs
+- CSV – Raw data source format
 
 ## 🔄 Process Workflow
 
-Data Import to SQL Server – Created tables, bulk imported CSV data
-Data Cleaning & Preparation – Formatted dates, corrected inconsistencies
-Power BI Connection – Linked to SQL Server for real-time querying
-Data Modeling – Established relationships between tables
-Calculated Columns & Measures – Created Age_Group, Income_Group, Total Revenue, WoW Growth, etc.
-Dashboard Design – Added slicers, custom color palette, and interactive visuals
+- Data Import to SQL Server – Created tables, bulk imported CSV data
+- Data Cleaning & Preparation – Formatted dates, corrected inconsistencies
+- Power BI Connection – Linked to SQL Server for real-time querying
+- Data Modeling – Established relationships between tables
+- Calculated Columns & Measures – Created Age_Group, Income_Group, Total Revenue, WoW Growth, etc.
+- Dashboard Design – Added slicers, custom color palette, and interactive visuals
 
-## 📈 Key Insights
+## 📈 Key Insights – Week 53 (31st Dec)
 
-Swipe transactions generate the most revenue
-Blue card holders contribute the highest share of revenue
-Graduates are the most profitable customer segment
-Businessmen & high-income customers have the highest average spend
-Revenue spikes observed in specific seasonal weeks
+WoW change:
+- Revenue increased by 28.8%
+- Total Transaction Amt & Count increased by xx% & xx%
+- Customer count increased by xx%
+
+Overview YTD:
+- Overall revenue is $57M
+- Total interest is $8M
+- Total transaction amount is $46
+- Swipe transactions generate the most revenue
+- Blue & Silver credit cards are contributing to 93% of overall transactions
+- Graduates are the most profitable customer segment
+- Male customers are contributing more in revenue: $31M, female $26M
+- Businessmen & high-income customers have the highest average spend
+- TX, NY & CA are contributing to 68%
+- Overall Activation rate is 57.5%
+- Overall Delinquent rate is 6.06%
 
 ## 💡 Recommendations
 
