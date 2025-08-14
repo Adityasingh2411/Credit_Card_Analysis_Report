@@ -50,7 +50,7 @@ WoW change:
 Overview YTD:
 - Overall revenue is $57M
 - Total interest is $8M
-- Total transaction amount is $46
+- Total transaction amount is $46M
 - Swipe transactions generate the most revenue
 - Blue & Silver credit cards are contributing to 93% of overall transactions
 - Graduates are the most profitable customer segment
